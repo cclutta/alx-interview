@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-import sys 
+import sys
 """ N queens problem. """
 
 if __name__ == "__main__":
